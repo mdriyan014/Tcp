@@ -1,0 +1,11 @@
+# @TAITANIMUMCODEX Free Fire Bot Credentials
+# Fill in your Free Fire account credentials below
+
+# Format 1: Comma-separated (RECOMMENDED)
+uid=4468970991,password=D_HJUVE_BY_BREXX_GAMING_MO0HM
+
+# OR Format 2: Line-separated
+# uid: 4468970991
+# password: D_HJUVE_BY_BREXX_GAMING_MO0HM
+
+# Save this file and restart the bot
